@@ -19,7 +19,7 @@ namespace WebBanHangOnline.Models.EF
         public int Id { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
-        public int Icon { get; set; }
+        public string Icon { get; set; }
         public string SeoTitle { get; set; }
         public string SeoDescription { get; set; }
         public string SeoKeyword { get; set; }
