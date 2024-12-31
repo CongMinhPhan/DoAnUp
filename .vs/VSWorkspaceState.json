@@ -3,11 +3,12 @@
     "",
     "\\WebBanHangOnline",
     "\\WebBanHangOnline\\WebBanHangOnline",
+    "\\WebBanHangOnline\\WebBanHangOnline\\Areas",
+    "\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin",
     "\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers",
-    "\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Category",
-    "\\WebBanHangOnline\\WebBanHangOnline\\Models",
-    "\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF"
+    "\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF",
+    "\\WebBanHangOnline\\WebBanHangOnline\\obj"
   ],
-  "SelectedNode": "\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Posts.cs",
+  "SelectedNode": "\\WebBanHangOnline\\WebBanHangOnline.sln",
   "PreviewInSolutionExplorer": false
 }
